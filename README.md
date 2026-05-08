@@ -1,1 +1,3 @@
 # Brain-Tumour-MRI-Image-Multi-Class-Classification-
+In this research, I provide the convolutional neural network (CNN) approach for classifying brain MRI scan images into gliomas, meningiomas,
+no tumor, and pituitary tumors. This method is used in conjunction with data augmentation and image processing. The pre-trained VGG-16, MobileNetV2, and EfficientNetB0 models were used to compare the performance of our suggested CNN model. The Brain Tumor MRI dataset from Kaggle is used to test the experiment. According to the results, the proposed model achieved an accuracy of 97.10%, compared to 84.59% for VGG-16, 94.51% for EfficientNetB0, and 93.82% for MobileNetV2.
